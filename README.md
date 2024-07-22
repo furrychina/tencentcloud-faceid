@@ -6,7 +6,7 @@
 
 ## 安装
 ```shell
-go add github.com/furrychina/tencentcloud-sdk-go
+go get github.com/furrychina/tencentcloud-faceid
 ```
 
 ## 适用示例

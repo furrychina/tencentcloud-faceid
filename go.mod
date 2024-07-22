@@ -1,3 +1,3 @@
-module tencentcloud-sdk-go
+module tencentcloud-faceid
 
 go 1.22
